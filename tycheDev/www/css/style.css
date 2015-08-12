@@ -1,0 +1,57 @@
+/* Empty. Add your own CSS if you like */
+.slider {
+	height:100%;
+	text-align:center;
+}
+
+.bg-1{
+	background-image: url("../img/bg-1.png");
+	width:100%;
+	height:100%;
+}
+
+.scroll{
+	height:100%;
+
+}
+
+.slider-1{
+	background-color: blue;
+	width:100%;
+	height:100%;
+}
+
+.slider-2{
+	background-color: blue;
+	width:100%;
+	height:100%;
+}
+
+.slider-3{
+	background-color: blue;
+	width:100%;
+	height:100%;
+}
+
+.button.button-dark.button-outline{
+	border-color: #1FC232;
+    background: white;
+    color: #1fc232;
+}
+
+.button.button-dark.button-outline.activated{
+	background-color: #1FC232;
+	color:white;
+}
+
+.bar-transparent{
+	background: transparent;
+}
+
+.botaoMaior{
+	font-size: 15px;
+}
+
+.ionic-scroll{
+	
+}
